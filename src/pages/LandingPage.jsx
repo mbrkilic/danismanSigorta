@@ -6,6 +6,7 @@ import TrustSection from '../components/TrustSection'
 import FAQ from '../components/FAQ'
 import FinalCTA from '../components/FinalCTA'
 import Footer from '../components/Footer'
+import ContactSection from '../components/ContactSection'
 
 export default function LandingPage() {
   return (
@@ -17,6 +18,7 @@ export default function LandingPage() {
       <TrustSection />
       <FAQ />
       <FinalCTA />
+      
       <Footer />
     </main>
   )
