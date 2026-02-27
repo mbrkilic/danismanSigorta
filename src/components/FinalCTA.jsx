@@ -156,7 +156,7 @@ export default function FinalCTA() {
                     Merkez Ofis
                   </p>
                   <p className="text-white font-medium leading-relaxed">
-                    İncili Pınar Mah. 4. Cad. 40 Sayın İş Mrk. <br /> K:4
+                    İncili Pınar Mah. 4. Cad. 40 Sayın İş Mrk. K:4  <br /> 
                     Şehitkamil / Gaziantep
                   </p>
                 </div>

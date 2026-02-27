@@ -87,7 +87,8 @@ export default function Footer() {
                 </svg>
                 <div>
                   <div className="text-white text-xs mb-0.5">Telefon</div>
-                  <a href="tel:+902121234567" className="hover:text-[#00A86B] transition-colors">+90 (212) 123 45 67</a>
+                  <a href="tel:+903422328852" className="hover:text-[#00A86B] transition-colors">+90 (342) 232 88 52</a> <br />
+                  <a href="tel:+903422328854" className="hover:text-[#00A86B] transition-colors">+90 (342) 232 88 54</a>
                 </div>
               </li>
               <li className="flex items-start gap-3 text-sm">
@@ -105,7 +106,8 @@ export default function Footer() {
                 </svg>
                 <div>
                   <div className="text-white text-xs mb-0.5">Adres</div>
-                  <span>Levent Mah. Büyükdere Cad.<br />No: 123, Şişli / İstanbul</span>
+                  <span>İncili Pınar Mah. 4. Cad. 40 Sayın İş Mrk. K:4  <br /> 
+                    Şehitkamil / Gaziantep</span>
                 </div>
               </li>
             </ul>
